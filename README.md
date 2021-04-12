@@ -5,6 +5,6 @@ Para su funcionamiento necesitas estos componentes:
 
 1)PowerShell. Intérprete de comandos avanzados de Windows. Mantén actualizado tu sistema para tener la última versión disponible de este componente
 
-2)FFmpeg. Herramienta para grabar y convertir formatos de archivos multimedia. Para Windows existen builds precompiladas y actualizadas cada día. Recomiendo que las descargues de este repositorio:
+2)FFmpeg. Herramienta para grabar y convertir formatos de archivos multimedia. Para Windows existen builds precompiladas y actualizadas cada día. Recomiendo que las descargues de este repositorio: https://github.com/BtbN/FFmpeg-Builds/releases
 
-3)Rclone. Herramienta para sincronizar archivos con servicios de almacenamiento en la nube como Google Drive, Dropbox y muchos más. Para Windows puedes descargarla desde aquí: 
+3)Rclone. Herramienta para sincronizar archivos con servicios de almacenamiento en la nube como Google Drive, Dropbox y muchos más. Puedes descargarla desde aquí: https://rclone.org/downloads/
